@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋 Hi there! I'm [Spencer](https://twitter.com/spencerryoutube)
 
-<!--
-**SpencerComputers/SpencerComputers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a video editor but I sometimes get on GitHub to code because I want something done that I don't want to pay for or I just wanna learn. It's pretty trash so don't expect quality. I have, however, maintained Minecraft servers for [Larry Poppins](https://www.youtube.com/c/larrypoppins) to create exciting updates for players, fix any lag or keep the servers generally stable.
 
-Here are some ideas to get you started:
+#### 💻 Technology stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **📱 Platforms**: Web, Desktop, Minecraft
+- **⌨ Languages**:️ Java, JavaScript, Python
+- **📈 Databases**: PostgreSQL, MongoDB
+- **🔧 Ops**: Docker, Linux
+
+#### 📢 More Me
+If you're just here to check me out then you can find some of my other stuff at:
+- [Twitter](https://twitter.com/spencerryoutube)
+- [YouTube](https://www.youtube.com/channel/UCGnW9fZdvYLgdo3zcorKPKg)
+- [Twitch](https://twitch.tv/smmacca)
