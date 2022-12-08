@@ -1,4 +1,5 @@
-### 👋 Hi there! I'm [Spencer](https://twitter.com/spencerryoutube)
+# 👋 Hi there! 
+### I'm [Spencer](https://twitter.com/spencerryoutube)
 
 I'm a video editor but I sometimes get on GitHub to code because I want something done that I don't want to pay for or I just wanna learn. It's pretty trash so don't expect quality. I have, however, maintained Minecraft servers for [Larry Poppins](https://www.youtube.com/c/larrypoppins) to create exciting updates for players, fix any lag or keep the servers generally stable.
 
