@@ -7,7 +7,6 @@ I'm a video editor but I sometimes get on GitHub to code because I want somethin
 
 - **📱 Platforms**: Web, Desktop, Minecraft
 - **⌨ Languages**:️ Java, JavaScript, Python
-- **📈 Databases**: PostgreSQL, MongoDB
 - **🔧 Ops**: Docker, Linux
 
 #### 📢 More Me
